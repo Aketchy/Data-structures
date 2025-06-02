@@ -1,3 +1,5 @@
+#Problem 1
+
 set1 = [3, 1, 7, 9]
 set2 = [2, 4, 1, 9, 3]
 
@@ -15,7 +17,7 @@ print("Sum of distinct elements:", sum_distinct)
 
 
 
-
+#Problem 2
 
 def dot_product(v1, v2):
     ps = 0
